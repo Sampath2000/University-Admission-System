@@ -4,7 +4,7 @@
  3)search for a student record
  4)Summary report of the admision
  
- #Requirements
+ ##Requirements
  1)Java editor - Eclipse/NetBeans
  2)MySql Workbence
 
